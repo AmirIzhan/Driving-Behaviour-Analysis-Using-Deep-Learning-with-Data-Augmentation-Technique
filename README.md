@@ -1,5 +1,7 @@
 # Driving Behaviour Analysis Analysis Using Deep Learning with Data Augmentation Technique
-This is my Final Year Project :)
+
+
+Hi!!  This is my Final Year Project :)
 
 Hybrid Conv1D-BiLSTM with CTGAN augmentation for driving behaviour classification (Normal,
 Aggressive, Drowsy)  | UAH-DriveSet 
