@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual environments
 .venv/
 venv/
@@ -22,3 +23,24 @@ __pycache__/
 
 # Notebooks
 .ipynb_checkpoints/
+=======
+    # Data 
+    data/raw/
+    data/processed/
+    data/augmented/
+    data/splits/
+    
+    # Trained models
+    saved_models/*.h5
+    saved_models/*.pkl
+    
+    # Python environment
+    venv/
+    __pycache__/
+    *.pyc
+    .ipynb_checkpoints/
+    
+    # IDE
+    .vscode/
+
+>>>>>>> a282e657037cc53a3fcb96954c98f14a5f00c513
