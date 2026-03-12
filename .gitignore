@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+venv/
+
+# Data — too large for GitHub
+Data/*.csv
+
+
+# Saved models
+*.pkl
+*.keras
+*.joblib
+*.h5
+*.npz
+
+# Python auto-generated
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Notebooks
+.ipynb_checkpoints/
