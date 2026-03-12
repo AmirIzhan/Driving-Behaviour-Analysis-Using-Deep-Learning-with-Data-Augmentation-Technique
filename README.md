@@ -1,4 +1,4 @@
-# Driving Behaviour Analysis Analysis Using Deep Learning with Data Augmentation Technique
+# Driving Behaviour Analysis Using Deep Learning with Data Augmentation Technique
 
 
 Hi everyone!! 
@@ -58,9 +58,9 @@ driving-behaviour-analysis/
 
 ## Setup
 
-git clone https://github.com/YOUR-USERNAME/driving-behaviour-analysis.git
+git clone https://github.com/AmirIzhan/Driving-Behaviour-Analysis-Using-Deep-Learning-with-Data-Augmentation-Technique.git
 cd driving-behaviour-analysis
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 Download the UAH-DriveSet dataset — see data/README.md for instructions.
 
