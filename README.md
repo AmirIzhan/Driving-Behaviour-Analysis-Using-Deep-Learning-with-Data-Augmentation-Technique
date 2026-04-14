@@ -158,4 +158,4 @@ The report covers:
 ---
 ## Author
 
-Amir Izhan Bin Bekri | 2121507 | IIUM | January 2026
+Amir Izhan Bin Bekri| January 2026
